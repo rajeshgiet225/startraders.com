@@ -1,0 +1,303 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.startraders.com" resolutions="1x" timestamp="1613502883168">
+  <folder name="css">
+    <file name="site_global.css" crc="3803876515"/>
+    <file name="index.css" crc="3850121968" ref="index"/>
+    <file name="iefonts_index.css" crc="3805446827" ref="index"/>
+    <file name="brands.css" crc="167471574" ref="brands"/>
+    <file name="contact.css" crc="511173813" ref="contact"/>
+    <file name="services.css" crc="32501522" ref="services"/>
+    <file name="gallery.css" crc="3769629773" ref="gallery"/>
+  </folder>
+  <folder name="assets">
+    <file name="bloc24-bluvarietyjpg.jpg" crc="28062763" seo="true" mt="1613489587000"/>
+    <file name="snap_screen_20210216214304.png" crc="186563596" seo="true" mt="1613491984000"/>
+    <file name="snap_screen_20210216214123.png" crc="3989892757" seo="true" mt="1613491883000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:services:gallery:brands:contact"/>
+    <file name="museutils.js" crc="3939489907" ref="index:services:gallery:brands:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:services:gallery:brands:contact"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:services:gallery:brands:contact"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:services:gallery:brands:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:services:gallery:brands:contact"/>
+    <file name="webpro.js" crc="3856315280" ref="index:contact"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:services:gallery:brands:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:services:gallery:brands:contact"/>
+    <file name="require.js" crc="4177726516" ref="index:services:gallery:brands:contact"/>
+    <file name="form_check.php" crc="4108222811" ref="contact"/>
+    <file name="form_throttle.php" crc="503802655" ref="contact"/>
+    <file name="form_process.php" crc="260214869" ref="contact"/>
+    <file name="form-u2429.php" crc="177060035" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="u925-4.png" crc="3984019810" ref="index"/>
+    <file name="werdfr.jpg" crc="3859781181" ref="index:gallery">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dribble32x32.jpg" crc="3900312861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook32x32.jpg" crc="3814358492" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin32x32.jpg" crc="4032340596" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rss.png" crc="4144695932" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest32x32.jpg" crc="340003248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter32x32.jpg" crc="462041627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20210128_134244.jpg" crc="3976884693" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="werdfrdg.jpg" crc="4023808107" ref="index:contact">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="o-general-2.jpg" crc="524891317" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="713w-txf-ql_ac_ul320_.jpg" crc="3953654329" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snap_screen_20210216225126.jpg" crc="321684310" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snap_screen_20210216223934.jpg" crc="4249303371" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snap_screen_20210216223529.jpg" crc="264786232" ref="index"/>
+    <file name="snap_screen_20210216223230.jpg" crc="3776492699" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snap_screen_20210216224831.jpg" crc="132942506" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quote.png" crc="76260345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mobile-phone.png" crc="466415370" ref="index:services:gallery:brands:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ban2.jpg" crc="4160057683" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="25-woman-girl-png-image.png" crc="313834416" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="st.jpg" crc="3857387362" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonials.png" crc="4083760234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p7.jpg" crc="4230474419" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p8.jpg" crc="435617401" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p9.jpg" crc="300861052" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1.jpg" crc="439940231" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2.jpg" crc="262429777" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p3.jpg" crc="3864086125" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p4.jpg" crc="336770731" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p5.jpg" crc="4129631760" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p6.jpg" crc="60468847" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flower-8189dd.png" crc="154622292" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="atlasaircon-ac-repair-man.png" crc="162822035" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1557-6.png" crc="4247273431" ref="index"/>
+    <file name="credit-card.jpg" crc="268320368" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="58f8bdcd0ed2bdaf7c12830d.png" crc="251214206" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rplexpng.png" crc="3904316786" ref="index:services:gallery:brands:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="banner1.jpg" crc="214164794" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="u2853-4.png" crc="3984019810" ref="services"/>
+    <file name="twitter.png" crc="4102706121" ref="services:gallery:brands:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="pinterest.png" crc="4214682508" ref="services:gallery:brands:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="facebook.png" crc="317936629" ref="services:gallery:brands:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="u2815-4.png" crc="3983857454" ref="services"/>
+    <file name="blue-star_vocal-for-local_desktop.jpg" crc="3884099419" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="product-500x500.jpg" crc="4142220799" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="htr-image-6723.jpg" crc="3860149354" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="pcb-repair-service-500x500.jpg" crc="4215454500" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="air-conditioner-amc-service-500x500.jpg" crc="310528823" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="download.jpg" crc="164636476" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="werdfrsdsdghh.jpg" crc="4043173718" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="u2098-4.png" crc="3984019810" ref="gallery"/>
+    <file name="u1743-4.png" crc="3883120910" ref="gallery"/>
+    <file name="st-u1740-fr.jpg" crc="4235667137" ref="gallery"/>
+    <file name="werdfrsdsdghh-u1739-fr.jpg" crc="3882585319" ref="gallery"/>
+    <file name="werdfr-u1741-fr.jpg" crc="25958773" ref="gallery"/>
+    <file name="werdfrsdsdghhasde-u1742-fr.jpg" crc="400628464" ref="gallery"/>
+    <file name="20210128_134244-u1730-fr.jpg" crc="17386284" ref="gallery"/>
+    <file name="werdfrdg-u1733-fr.jpg" crc="47174471" ref="gallery"/>
+    <file name="wer.jpg" crc="4163856565" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="werdfrsd.jpg" crc="418430939" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="werdfrsdsdghh-u1735-fr.jpg" crc="4144418573" ref="gallery"/>
+    <file name="img20hhggggg.jpg" crc="131510206" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="werdfrsdsdghhasde.jpg" crc="3793596881" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="bas gggg.jpg" crc="472546708" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="bas (3)wgggggg.jpg" crc="4293713934" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="banner-calidad-aire-home1500x650-en.jpg" crc="3972544490" ref="brands">
+      <caption webpage="brands" alt=""/>
+    </file>
+    <file name="u2525-4.png" crc="3984019810" ref="brands"/>
+    <file name="daikin.jpg" crc="3971827578" ref="brands">
+      <caption webpage="brands" alt=""/>
+    </file>
+    <file name="daikin_logo_1.jpg" crc="93724667" ref="brands">
+      <caption webpage="brands" alt=""/>
+    </file>
+    <file name="snap_screen_20210215003206.jpg" crc="38496138" ref="brands">
+      <caption webpage="brands" alt=""/>
+    </file>
+    <file name="hitachi_logo_large.png" crc="3921073272" ref="brands">
+      <caption webpage="brands" alt=""/>
+    </file>
+    <file name="o-general-ac-support-email-id.jpg" crc="515237166" ref="brands">
+      <caption webpage="brands" alt=""/>
+    </file>
+    <file name="asga18ftta.jpg" crc="532917586" ref="brands">
+      <caption webpage="brands" alt=""/>
+    </file>
+    <file name="asga18jcc.jpg" crc="4006682390" ref="brands">
+      <caption webpage="brands" alt=""/>
+    </file>
+    <file name="asga30lfca.jpg" crc="4166512444" ref="brands">
+      <caption webpage="brands" alt=""/>
+    </file>
+    <file name="assga18jccb.jpg" crc="476853742" ref="brands">
+      <caption webpage="brands" alt=""/>
+    </file>
+    <file name="axgt18fhtc.jpg" crc="4144763460" ref="brands">
+      <caption webpage="brands" alt=""/>
+    </file>
+    <file name="vas18kt.jpg" crc="503303562" ref="brands">
+      <caption webpage="brands" alt=""/>
+    </file>
+    <file name="u2286-4.png" crc="3984019810" ref="contact"/>
+    <file name="u2408-4.png" crc="369260787" ref="contact"/>
+    <file name="flower-8175.png" crc="75131230" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u2423-4.png" crc="3763306829" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="3992731213" seo="true" mt="1613502862749" redirect="true"/>
+  <file name="services.html" crc="4181278392" seo="true" mt="1613499450808" redirect="true"/>
+  <file name="gallery.html" crc="4229194280" seo="true" mt="1613499681056" redirect="true"/>
+  <file name="brands.html" crc="468623162" seo="true" mt="1613499749844" redirect="true"/>
+  <file name="contact.html" crc="444350827" seo="true" mt="1613502789948" redirect="true"/>
+</manifest>
